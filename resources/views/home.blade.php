@@ -7,6 +7,6 @@
 
 @section('konten')
     
-    <p>Halo gaes</p>
+    <p>Ini hasil edit</p>
 
 @endsection
